@@ -1,0 +1,11 @@
+num = [3,67,52,70,5,3,8,91,62]
+count_odd = 0
+count_even = 0
+for x in num:
+ if x % 2==0:
+ count_even += 1
+ 
+ else:
+ count_odd += 1
+print("even number are:",count_even)
+print("odd number are:",count_odd)
