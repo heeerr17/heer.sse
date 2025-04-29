@@ -1,3 +1,4 @@
+# this is  odd even python code
 num = [3,67,52,70,5,3,8,91,62]
 count_odd = 0
 count_even = 0
